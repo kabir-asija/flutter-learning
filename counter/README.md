@@ -1,16 +1,20 @@
-# my_first_app
+# Flutter Simple Counter App
 
-A new Flutter project.
+A basic **Flutter** project demonstrating a simple counter. This app allows the user to increment and decrement a number by pressing buttons. It's an ideal starter project for learning Flutter and Dart fundamentals.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Increment a counter
+- Decrement a counter
+- Simple and clean UI
+- Demonstrates Flutter state management with `setState`
 
-A few resources to get you started if this is your first Flutter project:
+### Prerequisites
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- [Dart](https://dart.dev/get-dart)
+- IDE (VS Code, Android Studio, etc.)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributing
+
+Feel free to fork this repository and make improvements. Pull requests are welcome!
